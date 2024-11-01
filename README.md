@@ -6,6 +6,9 @@ go 框架组件
 
 ### multi-service
 
+
+主要演示  eggroup 的使用
+
 多个同时运行的服务
 
 http 
